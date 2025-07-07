@@ -7,7 +7,7 @@ Este projeto é um sistema completo de previsão salarial para profissionais de 
 2. **API FastAPI**: Serviço RESTful para fazer previsões usando os modelos treinados
 3. **Frontend React**: Interface interativa para coletar dados e visualizar previsões
 
-📹 [Vídeo Explicativo](www.google.com)
+📹 [Vídeo Explicativo](https://www.youtube.com/watch?v=1vQf8irQgzo)
 
 
 ## 📌 Visão Geral
@@ -35,7 +35,7 @@ O modelo classifica os salários em 6 faixas:
 ## 🛠️ Componentes do Projeto
 
 ### 1. Notebook de Modelagem (`notebook.ipynb`)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](www.google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mC9WyQrV1hJr7peZItVTkAhQtVXJfHLw?usp=sharing)
 
 - Pré-processamento de dados de salários de Data Science
 - Treinamento de 4 modelos:
