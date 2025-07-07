@@ -1,0 +1,12 @@
+services:
+  api:
+    image: mvp-api
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    env_file:
+      - .env
+    ports:
+      - ${API_PORT}:80
+    volumes:
+      - .:/app
